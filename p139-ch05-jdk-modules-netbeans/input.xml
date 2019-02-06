@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<addressbook>
+	<contact>
+		<firstname>Edsger</firstname>
+		<lastname>Dijkstra</lastname>
+		<address>
+			<street>5612</street>
+			<city>AZ</city>
+			<state>Eindhoven</state>
+			<country>Netherland</country>
+		</address>
+		<phone>345-678-9012</phone>
+	</contact>
+	<contact>
+		<firstname>Raid</firstname>
+		<lastname>Black</lastname>
+		<address>
+			<street>2123</street>
+			<city>Ottawa</city>
+			<state>ON</state>
+			<country>Canada</country>
+		</address>
+		<phone>111-222-3333</phone>
+	</contact>
+</addressbook>
